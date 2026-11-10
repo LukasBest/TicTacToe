@@ -1,1 +1,1 @@
-
+Fehler im Unit-Test: Die eingegebe Testsequenz von Spielzügen endet, bevor jemand gewonnen hat. Ein simples Ändern von {1, 2, 5, 6, 7} auf {1, 2, 5, 6, 9} lässt Spieler 1 mit einer diagonalen Reihe von oben links nach untern rechts gewinnen.

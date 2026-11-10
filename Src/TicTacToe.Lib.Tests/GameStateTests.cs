@@ -6,7 +6,7 @@ namespace TicTacToeLib.Tests
     [TestClass]
     public class GameStateTests
     {
-        private int[] movesPlayerOneWins = { 1, 2, 5, 6, 7 };
+        private int[] movesPlayerOneWins = { 1, 2, 5, 6, 9 };
         private int[] movesRemis = { 1, 2, 4, 7, 8, 5, 9, 6, 3 };
 
         private static int move = 0;
