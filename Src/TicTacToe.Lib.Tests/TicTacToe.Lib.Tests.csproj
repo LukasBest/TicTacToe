@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>TicTacToeLib.Tests</RootNamespace>
+    <AssemblyName>TicTacToeLib.Tests</AssemblyName>
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MSTest" Version="4.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TicTacToe.Console\TicTacToe.Console.csproj" />
+    <ProjectReference Include="..\TicTacToe.Lib\TicTacToe.Lib.csproj" />
+  </ItemGroup>
+
+</Project>

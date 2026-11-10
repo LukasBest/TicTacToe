@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>TicTacToeLib</RootNamespace>
+    <AssemblyName>TicTacToe.Lib</AssemblyName>
+  </PropertyGroup>
+
+</Project>
